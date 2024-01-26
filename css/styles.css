@@ -825,8 +825,8 @@ link {
 
 .checkbox-input:checked + label > span {
   background-color: #404bbf;
-  border: none;
   fill: #f4f4fd;
+  border: none;
 }
 
 .checkbox-link {
